@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 • programming something cool<br>
 <h2>Links:</h2>
 • <b>LinkedIn</b>: https://www.linkedin.com/in/luke-yap-18a50a292/<br>
-• <b>Replit</b>: [https://www.linkedin.com/in/luke-yap-18a50a292/](https://replit.com/@LukeYap)https://replit.com/@LukeYap
+• <b>Replit</b>: https://replit.com/@LukeYap
