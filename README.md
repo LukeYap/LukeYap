@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LukeYap/LukeYap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Luke Yap</h1>
+<h2>I'm interested in:</h2>
+• designing, developing, playing, creating video games<br>
+• web design, web development<br>
+• programming something cool<br>
+<h2>Links:</h2>
+• <b>LinkedIn</b>: https://www.linkedin.com/in/luke-yap-18a50a292/<br>
+• <b>Replit</b>: [https://www.linkedin.com/in/luke-yap-18a50a292/](https://replit.com/@LukeYap)https://replit.com/@LukeYap
