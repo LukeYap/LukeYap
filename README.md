@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Luke Yap</h1>
 <h2>I'm interested in:</h2>
 • designing, developing, playing, creating video games<br>
-• web design, web development<br>
+• graphic design, web design, web development<br>
 • programming something cool<br>
 <h2>Links:</h2>
 • <b>LinkedIn</b>: https://www.linkedin.com/in/luke-yap-18a50a292/<br>
